@@ -1,0 +1,3 @@
+/Users/yanayalovska/CLionProjects/PRO_LAB/cmake-build-debug/CMakeFiles/PRO_LAB.dir
+/Users/yanayalovska/CLionProjects/PRO_LAB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yanayalovska/CLionProjects/PRO_LAB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
